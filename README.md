@@ -1,1 +1,2 @@
-# -sales-data-analysis-python-
+Sales Data Analysis & Reporting Using Python:
+                                This project focuses on analyzing sales data using Python to transform raw transactional records into meaningful business insights. The analysis involves calculating total revenue, evaluating product-wise and category-wise performance, and identifying sales trends over time. By applying data manipulation and aggregation techniques, the project demonstrates how structured business data can be processed to support informed decision-making. This work reflects real-world data analysis tasks typically handled by entry-level data analysts in a corporate environment.
